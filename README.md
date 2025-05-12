@@ -2,13 +2,13 @@
 
 I'm an undergraduate student at the Tippie College of Business, University of Iowa, where I serve on Tippie Senate which represent students in collaboration with the Undergraduate Program Office and Dean’s Office. I'm passionate about data analytics, business technology, and making corporate law more inclusive.
 
-### 🔗 Connect with me
-[![LinkedIn]((https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/YOUR-LINK-HERE)  ](https://www.linkedin.com/in/alexis-elwood-67949a268/)
+### Connect with me! :)
+[![LinkedIn]((https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat))(https://www.linkedin.com/in/YOUR-LINK-HERE)  ](https://www.linkedin.com/in/alexis-elwood-67949a268/)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat)](mailto:aaelwood@uiowa.edu)
 
 ---
 
-### ⚙️ Current Skills
+###  Current Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
