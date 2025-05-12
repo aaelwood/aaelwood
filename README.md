@@ -32,7 +32,7 @@ I'm an undergraduate student at the Tippie College of Business, University of Io
 - **Data Mining**: Regression, classification, clustering, and association mining with a discipline in Orange
 - **Python Projects**: Data analysis, AI system development  
 - **Business Analytics**: Model evaluation, data wrangling, CRISP-DM, Jupyter Notebook
-- 
+- **Spanish Language** Conversational and academic fluency 
 
 ---
 
