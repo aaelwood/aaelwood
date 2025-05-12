@@ -22,7 +22,7 @@ I'm an undergraduate student at the Tippie College of Business, University of Io
 ### Current Roles
 
 -  **President**, Tippie Senate  
--  **Assistant Manager**, Big Events at Soldier Field (ASM Global)  
+-  **Assistant Manager**, Major Events at Soldier Field (ASM Global)  
 -  **Aquatics Manager**, Evergreen Park High School
 
 ---
